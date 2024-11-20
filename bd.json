@@ -1,0 +1,28 @@
+{
+    "vehiculos": [
+        {
+        "id": 1,
+        "placa":"RTS 234",
+        "tipo": "carro",
+        "hora_entrada": "8:15" 
+        },
+        {
+            "id": 2,
+        "placa":"FGH 234",
+        "tipo": "carro",
+        "hora_entrada": "10:15"  
+        },
+        {
+            "id": 3,
+        "placa":"QWE 234",
+        "tipo": "carro",
+        "hora_entrada": "16:15"  
+        },
+        {
+            "id": 4,
+        "placa":"QWE 23H",
+        "tipo": "MOTO",
+        "hora_entrada": "09:15"  
+        }
+    ]
+}
